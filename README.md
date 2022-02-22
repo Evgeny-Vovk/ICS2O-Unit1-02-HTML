@@ -4,4 +4,4 @@
 
 This site can be found at: [https://Evgeny-Vovk.github.io/ICS2O-Unit1-02-HTML](https://Evgeny-Vovk.github.io/ICS2O-Unit1-02-HTML)
 
-Genesis website URL: [https://Evgeny-Vovk.github.io/ICS2O-Unit1-02-HTML](https://Evgeny-Vovk.github.io/ICS2O-Unit1-02-HTML/genesis.html)
+Genesis site URL: [https://Evgeny-Vovk.github.io/ICS2O-Unit1-02-HTML](https://Evgeny-Vovk.github.io/ICS2O-Unit1-02-HTML/genesis.html)
